@@ -1,0 +1,11 @@
+#map {
+   height: 35rem;
+}
+
+.carousel-inner>.carousel-item>img {
+   margin: auto;
+   max-width: 312px;
+   max-height: 398px;
+   width: auto;
+   height: auto;
+}
